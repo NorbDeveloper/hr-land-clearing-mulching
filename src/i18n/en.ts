@@ -1,0 +1,73 @@
+export const en = {
+  nav: {
+    home: 'Home',
+    services: 'Services',
+    work: 'Our Work',
+    about: 'About',
+    schedule: 'Hours',
+    contact: 'Contact',
+  },
+  hero: {
+    title: 'HR Land Clearing & Mulching',
+    subtitle: 'Transforming overgrown properties into clean, usable land throughout South Texas.',
+    cta: 'Get a Free Estimate',
+  },
+  services: {
+    title: 'Our Services',
+    items: [
+      { title: 'Forestry Mulching', description: 'Grinding dense vegetation and small trees into nutrient-rich mulch to clear overgrown land.' },
+      { title: 'Land Clearing', description: 'Complete removal of trees, stumps, and brush to prepare land for development or restoration.' },
+      { title: 'Brush & Cedar Removal', description: 'Targeted removal of invasive brush and cedar to restore native landscapes.' },
+      { title: 'Fence Line Clearing', description: 'Clearing vegetation along fence lines for access, maintenance, and boundary visibility.' },
+      { title: 'Property Cleanup', description: 'Thorough removal of debris, deadfall, and overgrowth to restore your property.' },
+      { title: 'Trail & Road Clearing', description: 'Cutting and clearing access paths through wooded areas for vehicles and equipment.' },
+      { title: 'Site Preparation', description: 'Clearing and grading land for construction, agriculture, or new development projects.' },
+    ],
+  },
+  work: {
+    title: 'Our Work',
+    items: [
+      { title: 'Forestry Mulching', description: 'Heavy-duty mulching of dense vegetation and small trees in action' },
+      { title: 'Complete Land Clearing', description: 'Transforming overgrown properties into clean, usable land' },
+      { title: 'Brush & Cedar Removal', description: 'Targeted removal of invasive brush and cedar trees' },
+      { title: 'Property Cleanup', description: 'Thorough property cleanup and debris removal services' },
+      { title: 'Trail & Road Clearing', description: 'Creating access paths through wooded and rough terrain' },
+      { title: 'Site Preparation', description: 'Professional site preparation for construction and development' },
+    ],
+  },
+  about: {
+    title: 'Why Choose Us',
+    badge: '18+ Years of Service',
+    description: 'We are insured, bonded, and LLC certified. Locally owned and operated, we provide reliable and professional service with attention to detail.',
+    features: [
+      'Locally owned and operated',
+      'Reliable and professional service',
+      'Free estimates',
+      'Residential, ranch, and commercial properties',
+      'Quality work with attention to detail',
+    ],
+    serviceAreaTitle: 'Service Areas',
+    serviceAreaDescription: 'Kenedy, Karnes City, Floresville, Pleasanton, Poth, Jourdanton, La Vernia, Stockdale, and surrounding South Texas communities.',
+  },
+  schedule: {
+    title: 'Business Hours',
+    days: [
+      { day: 'Monday', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Tuesday', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Wednesday', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Thursday', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Friday', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Saturday', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Sunday', hours: '7:00 AM – 6:00 PM' },
+    ],
+  },
+  contact: {
+    title: 'Contact Us',
+    phone: '+1 (210) 419-3355',
+    callNow: 'Call Now',
+    getDirections: 'Get Directions',
+  },
+  footer: {
+    rights: 'All rights reserved.',
+  },
+};

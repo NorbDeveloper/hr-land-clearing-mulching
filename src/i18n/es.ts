@@ -1,0 +1,73 @@
+export const es = {
+  nav: {
+    home: 'Inicio',
+    services: 'Servicios',
+    work: 'Nuestro Trabajo',
+    about: 'Nosotros',
+    schedule: 'Horario',
+    contact: 'Contacto',
+  },
+  hero: {
+    title: 'HR Land Clearing & Mulching',
+    subtitle: 'Transformamos propiedades cubiertas de maleza en terrenos limpios y utilizables en todo el sur de Texas.',
+    cta: 'Solicita un Presupuesto',
+  },
+  services: {
+    title: 'Nuestros Servicios',
+    items: [
+      { title: 'Triturado Forestal', description: 'Trituración de vegetación densa y árboles pequeños en mantillo para limpiar terrenos.' },
+      { title: 'Desmonte de Terrenos', description: 'Eliminación completa de árboles, tocones y maleza para preparar el terreno.' },
+      { title: 'Remoción de Maleza y Cedro', description: 'Eliminación selectiva de maleza invasiva y cedro para restaurar el paisaje.' },
+      { title: 'Limpieza de Líneas de Cercas', description: 'Limpieza de vegetación a lo largo de cercas para acceso y mantenimiento.' },
+      { title: 'Limpieza de Propiedades', description: 'Eliminación completa de escombros y vegetación para restaurar su propiedad.' },
+      { title: 'Despeje de Senderos y Caminos', description: 'Apertura y limpieza de caminos de acceso en áreas boscosas.' },
+      { title: 'Preparación de Sitios', description: 'Nivelación y limpieza de terrenos para construcción o desarrollo.' },
+    ],
+  },
+  work: {
+    title: 'Nuestro Trabajo',
+    items: [
+      { title: 'Triturado Forestal', description: 'Triturado pesado de vegetación densa y árboles pequeños en acción' },
+      { title: 'Desmonte Completo', description: 'Transformando propiedades cubiertas de maleza en terrenos limpios y utilizables' },
+      { title: 'Remoción de Maleza y Cedro', description: 'Eliminación selectiva de maleza invasiva y árboles de cedro' },
+      { title: 'Limpieza de Propiedades', description: 'Limpieza profunda de propiedades y servicios de remoción de escombros' },
+      { title: 'Despeje de Senderos', description: 'Creación de caminos de acceso a través de terrenos boscosos y accidentados' },
+      { title: 'Preparación de Sitios', description: 'Preparación profesional del terreno para construcción y desarrollo' },
+    ],
+  },
+  about: {
+    title: '¿Por Qué Elegirnos?',
+    badge: 'Más de 18 Años de Servicio',
+    description: 'Estamos asegurados, con fianza y certificados LLC. De propiedad y operación local, brindamos un servicio confiable y profesional con atención al detalle.',
+    features: [
+      'Propiedad y operación local',
+      'Servicio confiable y profesional',
+      'Presupuestos gratuitos',
+      'Propiedades residenciales, ranchos y comerciales',
+      'Trabajo de calidad con atención al detalle',
+    ],
+    serviceAreaTitle: 'Áreas de Servicio',
+    serviceAreaDescription: 'Kenedy, Karnes City, Floresville, Pleasanton, Poth, Jourdanton, La Vernia, Stockdale y comunidades circundantes del sur de Texas.',
+  },
+  schedule: {
+    title: 'Horario de Atención',
+    days: [
+      { day: 'Lunes', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Martes', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Miércoles', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Jueves', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Viernes', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Sábado', hours: '7:00 AM – 6:00 PM' },
+      { day: 'Domingo', hours: '7:00 AM – 6:00 PM' },
+    ],
+  },
+  contact: {
+    title: 'Contáctanos',
+    phone: '+1 (210) 419-3355',
+    callNow: 'Llamar Ahora',
+    getDirections: 'Cómo Llegar',
+  },
+  footer: {
+    rights: 'Todos los derechos reservados.',
+  },
+};
