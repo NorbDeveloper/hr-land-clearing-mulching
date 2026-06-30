@@ -16,7 +16,7 @@ export default function Hero({ title, subtitle, cta }: HeroProps) {
         <img
           src="/images/machine.jpeg"
           alt="HR Machine"
-          className="w-full h-full object-fill"
+          className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-primary/95 via-primary/90 to-primary/80" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-black/10" />
