@@ -12,10 +12,10 @@ const images = [
   '/images/s1-fm.jpg',
   '/images/s2-lc.jpg',
   '/images/s3-bc-r.jpg',
-  '/images/s5-pc.jpg',
+  '/images/s9-ww.jpeg',
   '/images/s6-trc.jpg',
   '/images/s8-fl2.jpeg',
-  '/images/s9-ww.jpeg',
+  '/images/s9-plc.jpeg',
 ];
 
 export default function Work({ title, items }: WorkProps) {
