@@ -14,7 +14,8 @@ const images = [
   '/images/s3-bc-r.jpg',
   '/images/s5-pc.jpg',
   '/images/s6-trc.jpg',
-  '/images/s7-sp.jpg',
+  '/images/s8-fl2.jpeg',
+  '/images/s9-ww.jpeg',
 ];
 
 export default function Work({ title, items }: WorkProps) {

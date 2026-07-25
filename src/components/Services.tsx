@@ -16,6 +16,7 @@ const icons = [
   'M3 12l9-9 9 9M9 21V12h6v9',
   'M4 20L20 4M12 4v16M4 12h16',
   'M12 2v20M2 12h20M12 12a3 3 0 1 0 0-6 3 3 0 0 0 0 6',
+  'M12 2c-4 6-7 9-7 12a7 7 0 0 0 14 0c0-3-3-6-7-12z',
 ];
 
 export default function Services({ title, items }: ServicesProps) {

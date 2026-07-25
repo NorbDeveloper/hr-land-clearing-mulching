@@ -8,7 +8,7 @@ export const en = {
     contact: 'Contact',
   },
   hero: {
-    title: 'HR Land Clearing & Mulching',
+    title: 'HR Land Clearing and Mulching',
     subtitle: 'Transforming overgrown properties into clean, usable land throughout South Texas.',
     cta: 'Get a Free Estimate',
   },
@@ -21,7 +21,8 @@ export const en = {
       { title: 'Fence Line Clearing', description: 'Clearing vegetation along fence lines for access, maintenance, and boundary visibility.' },
       { title: 'Property Cleanup', description: 'Thorough removal of debris, deadfall, and overgrowth to restore your property.' },
       { title: 'Trail & Road Clearing', description: 'Cutting and clearing access paths through wooded areas for vehicles and equipment.' },
-      { title: 'Site Preparation', description: 'Clearing and grading land for construction, agriculture, or new development projects.' },
+      { title: 'Water Way Clearing', description: 'Clearing waterways, creeks, and drainage paths to restore proper water flow and prevent flooding.' },
+      // { title: 'Site Preparation', description: 'Clearing and grading land for construction, agriculture, or new development projects.' },
     ],
   },
   work: {
@@ -32,7 +33,9 @@ export const en = {
       { title: 'Brush & Cedar Removal', description: 'Targeted removal of invasive brush and cedar trees' },
       { title: 'Property Cleanup', description: 'Thorough property cleanup and debris removal services' },
       { title: 'Trail & Road Clearing', description: 'Creating access paths through wooded and rough terrain' },
-      { title: 'Site Preparation', description: 'Professional site preparation for construction and development' },
+      { title: 'Fence Line Clearing', description: 'Clearing vegetation along fence lines for access and boundary visibility' },
+      { title: 'Water Way Clearing', description: 'Restoring waterways and drainage paths for proper water flow' },
+      // { title: 'Site Preparation', description: 'Professional site preparation for construction and development' },
     ],
   },
   about: {
@@ -47,7 +50,7 @@ export const en = {
       'Quality work with attention to detail',
     ],
     serviceAreaTitle: 'Service Areas',
-    serviceAreaDescription: 'Kenedy, Karnes City, Floresville, Pleasanton, Poth, Jourdanton, La Vernia, Stockdale, and surrounding South Texas communities.',
+    serviceAreaDescription: 'Kenedy, Karnes City, Floresville, Pleasanton, Poth, Jourdanton, La Vernia, Stockdale, San Antonio, and surrounding South Texas communities.',
   },
   schedule: {
     title: 'Business Hours',

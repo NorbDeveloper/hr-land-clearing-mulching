@@ -8,7 +8,7 @@ export const es = {
     contact: 'Contacto',
   },
   hero: {
-    title: 'HR Land Clearing & Mulching',
+    title: 'HR Land Clearing and Mulching',
     subtitle: 'Transformamos propiedades cubiertas de maleza en terrenos limpios y utilizables en todo el sur de Texas.',
     cta: 'Solicita un Presupuesto',
   },
@@ -21,7 +21,8 @@ export const es = {
       { title: 'Limpieza de Líneas de Cercas', description: 'Limpieza de vegetación a lo largo de cercas para acceso y mantenimiento.' },
       { title: 'Limpieza de Propiedades', description: 'Eliminación completa de escombros y vegetación para restaurar su propiedad.' },
       { title: 'Despeje de Senderos y Caminos', description: 'Apertura y limpieza de caminos de acceso en áreas boscosas.' },
-      { title: 'Preparación de Sitios', description: 'Nivelación y limpieza de terrenos para construcción o desarrollo.' },
+      { title: 'Despeje de Vías Fluviales', description: 'Limpieza de vías fluviales, arroyos y drenajes para restaurar el flujo de agua y prevenir inundaciones.' },
+      // { title: 'Preparación de Sitios', description: 'Nivelación y limpieza de terrenos para construcción o desarrollo.' },
     ],
   },
   work: {
@@ -32,7 +33,9 @@ export const es = {
       { title: 'Remoción de Maleza y Cedro', description: 'Eliminación selectiva de maleza invasiva y árboles de cedro' },
       { title: 'Limpieza de Propiedades', description: 'Limpieza profunda de propiedades y servicios de remoción de escombros' },
       { title: 'Despeje de Senderos', description: 'Creación de caminos de acceso a través de terrenos boscosos y accidentados' },
-      { title: 'Preparación de Sitios', description: 'Preparación profesional del terreno para construcción y desarrollo' },
+      { title: 'Limpieza de Líneas de Cercas', description: 'Limpieza de vegetación a lo largo de cercas para acceso y visibilidad de límites' },
+      { title: 'Despeje de Vías Fluviales', description: 'Restauración de vías fluviales y drenajes para un flujo de agua adecuado' },
+      // { title: 'Preparación de Sitios', description: 'Preparación profesional del terreno para construcción y desarrollo' },
     ],
   },
   about: {
@@ -47,7 +50,7 @@ export const es = {
       'Trabajo de calidad con atención al detalle',
     ],
     serviceAreaTitle: 'Áreas de Servicio',
-    serviceAreaDescription: 'Kenedy, Karnes City, Floresville, Pleasanton, Poth, Jourdanton, La Vernia, Stockdale y comunidades circundantes del sur de Texas.',
+    serviceAreaDescription: 'Kenedy, Karnes City, Floresville, Pleasanton, Poth, Jourdanton, La Vernia, Stockdale, San Antonio y comunidades circundantes del sur de Texas.',
   },
   schedule: {
     title: 'Horario de Atención',
