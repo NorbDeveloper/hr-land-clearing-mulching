@@ -9,13 +9,14 @@ interface WorkProps {
 }
 
 const images = [
-  '/images/s1-fm.jpg',
+  '/images/forrest.jpeg',
   '/images/s2-lc.jpg',
-  '/images/s3-bc-r.jpg',
+  '/images/ceder-pick.jpeg',
   '/images/s9-ww.jpeg',
-  '/images/s6-trc.jpg',
+  '/images/n-trail-n-road-clearing.jpeg',
   '/images/s8-fl2.jpeg',
   '/images/s9-plc.jpeg',
+  '/images/Waterway.jpeg',
 ];
 
 export default function Work({ title, items }: WorkProps) {

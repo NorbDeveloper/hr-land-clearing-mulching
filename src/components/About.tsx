@@ -48,7 +48,7 @@ export default function About({
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="HR Land Clearing & Mulching Location"
+                title="HR Land Clearing/Mulching Location"
               />
             </div>
           </div>

@@ -8,7 +8,7 @@ export const es = {
     contact: 'Contacto',
   },
   hero: {
-    title: 'HR Land Clearing and Mulching',
+    title: 'HR Land Clearing/Mulching',
     subtitle: 'Transformamos propiedades cubiertas de maleza en terrenos limpios y utilizables en todo el sur de Texas.',
     cta: 'Solicita un Presupuesto',
   },
@@ -36,6 +36,7 @@ export const es = {
       { title: 'Despeje de Senderos', description: 'Creación de caminos de acceso a través de terrenos boscosos y accidentados' },
       { title: 'Limpieza de Líneas de Cercas', description: 'Limpieza de vegetación a lo largo de cercas para acceso y visibilidad de límites' },
       { title: 'Despeje de Líneas Eléctricas', description: 'Limpieza de vegetación alrededor de líneas eléctricas para acceso seguro y servicio confiable' },
+      { title: 'Despeje de Vías Fluviales', description: 'Restaurando el flujo de agua limpando arroyos y vías de drenaje' },
       // { title: 'Preparación de Sitios', description: 'Preparación profesional del terreno para construcción y desarrollo' },
     ],
   },

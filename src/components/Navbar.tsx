@@ -25,7 +25,7 @@ export default function Navbar({ t, lang, onChangeLanguage }: NavbarProps) {
         <div className="flex items-center justify-between h-16">
           <button onClick={() => scrollTo('home')} className="flex items-center gap-2 shrink-0">
             <img src="/images/logo.jpeg" alt="HR" className="h-10 w-10 rounded-full object-cover border-2 border-secondary" />
-            <span className="font-bold text-lg hidden sm:block text-accent">HR Land Clearing</span>
+            <span className="font-bold text-lg hidden sm:block text-accent">HR Land Clearing/Mulching</span>
           </button>
 
           <div className="hidden md:flex items-center gap-6">

@@ -13,7 +13,7 @@ export default function Footer({ rights }: FooterProps) {
           <span className="font-bold text-lg text-accent">HR Land Clearing and Mulching</span>
         </div>
         <p className="text-sm">
-          &copy; {year} HR Land Clearing and Mulching. {rights}
+          &copy; {year} HR Land Clearing/Mulching. {rights}
         </p>
       </div>
     </footer>

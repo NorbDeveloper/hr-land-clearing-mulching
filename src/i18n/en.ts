@@ -8,7 +8,7 @@ export const en = {
     contact: 'Contact',
   },
   hero: {
-    title: 'HR Land Clearing and Mulching',
+    title: 'HR Land Clearing/Mulching',
     subtitle: 'Transforming overgrown properties into clean, usable land throughout South Texas.',
     cta: 'Get a Free Estimate',
   },
@@ -36,6 +36,7 @@ export const en = {
       { title: 'Trail & Road Clearing', description: 'Creating access paths through wooded and rough terrain' },
       { title: 'Fence Line Clearing', description: 'Clearing vegetation along fence lines for access and boundary visibility' },
       { title: 'Power Lines Clearing', description: 'Clearing vegetation around power lines for safe access and reliable service' },
+      { title: 'Water Way Clearing', description: 'Restoring proper water flow by clearing creeks and drainage paths' },
       // { title: 'Site Preparation', description: 'Professional site preparation for construction and development' },
     ],
   },
