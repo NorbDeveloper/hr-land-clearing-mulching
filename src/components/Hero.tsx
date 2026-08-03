@@ -27,9 +27,12 @@ export default function Hero({ title, subtitleTag, subtitle, cta }: HeroProps) {
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
           {title}
         </h1>
-        <p className="text-2xl sm:text-3xl md:text-4xl font-semibold text-white mb-4">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
           {subtitleTag}
-        </p>
+        </h1>
+        {/* <p className="text-2xl sm:text-3xl md:text-4xl font-semibold text-white mb-4">
+          {subtitleTag}
+        </p> */}
         <p className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-10 max-w-2xl mx-auto">
           {subtitle}
         </p>
