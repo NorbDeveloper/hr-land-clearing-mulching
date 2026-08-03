@@ -14,7 +14,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white text-gray-900">
       <Navbar t={t.nav} lang={lang} onChangeLanguage={changeLanguage} />
-      <Hero title={t.hero.title} subtitle={t.hero.subtitle} cta={t.hero.cta} />
+      <Hero title={t.hero.title} subtitleTag={t.hero.subtitleTag} subtitle={t.hero.subtitle} cta={t.hero.cta} />
       <Services title={t.services.title} items={t.services.items} />
       <Work title={t.work.title} items={t.work.items} />
       <About

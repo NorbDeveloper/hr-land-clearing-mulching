@@ -11,6 +11,7 @@ export interface Translations {
   };
   hero: {
     title: string;
+    subtitleTag: string;
     subtitle: string;
     cta: string;
   };

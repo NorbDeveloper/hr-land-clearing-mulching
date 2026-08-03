@@ -9,6 +9,7 @@ export const es = {
   },
   hero: {
     title: 'HR Land Clearing/Mulching',
+    subtitleTag: 'Services LLC',
     subtitle: 'Transformamos propiedades cubiertas de maleza en terrenos limpios y utilizables en todo el sur de Texas.',
     cta: 'Solicita un Presupuesto',
   },

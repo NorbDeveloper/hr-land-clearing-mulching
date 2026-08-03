@@ -9,6 +9,7 @@ export const en = {
   },
   hero: {
     title: 'HR Land Clearing/Mulching',
+    subtitleTag: 'Services LLC',
     subtitle: 'Transforming overgrown properties into clean, usable land throughout South Texas.',
     cta: 'Get a Free Estimate',
   },

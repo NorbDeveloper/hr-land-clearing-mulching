@@ -1,10 +1,11 @@
 interface HeroProps {
   title: string;
+  subtitleTag: string;
   subtitle: string;
   cta: string;
 }
 
-export default function Hero({ title, subtitle, cta }: HeroProps) {
+export default function Hero({ title, subtitleTag, subtitle, cta }: HeroProps) {
   const scrollToContact = () => {
     const el = document.getElementById('contact');
     if (el) el.scrollIntoView({ behavior: 'smooth' });
@@ -26,6 +27,9 @@ export default function Hero({ title, subtitle, cta }: HeroProps) {
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
           {title}
         </h1>
+        <p className="text-2xl sm:text-3xl md:text-4xl font-semibold text-white mb-4">
+          {subtitleTag}
+        </p>
         <p className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-10 max-w-2xl mx-auto">
           {subtitle}
         </p>
